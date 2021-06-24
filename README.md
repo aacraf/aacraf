@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hey 👋
 
 
-- I'm currently almost finishing my studies in computer science. 
+- I'm currently finishing my studies in computer science. 
 
-- I'm currently learning web development.
+- I'm currently learning web development and trying to dive more into data structures and algorithms.
+
+- My hobbies are watch anime, do some sport and hang with friends.
 
 
 
