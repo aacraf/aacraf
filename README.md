@@ -5,7 +5,6 @@
 
 - I'm currently learning web development and trying to dive more into data structures and algorithms.
 
-- My hobbies are watch anime, do some sport and hang with friends.
 
 
 
