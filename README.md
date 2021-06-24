@@ -3,7 +3,7 @@
 
 - I'm currently finishing my studies in computer science. 
 
-- I'm currently learning web development and trying to dive more into data structures and algorithms.
+- I'm also learning web development and trying to dive more into data structures and algorithms.
 
 
 
