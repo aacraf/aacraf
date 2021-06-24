@@ -5,6 +5,8 @@
 
 - I'm also learning web development and trying to dive more into data structures and algorithms.
 
+- I love reading, sports and hanging with friends.
+
 
 
 
