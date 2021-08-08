@@ -1,4 +1,4 @@
-### Hey 👋
+### Hey :smile:
 
 
 - I'm currently finishing my studies in computer science. 
