@@ -1,11 +1,11 @@
 ### Hey :smile:
 
 
-- I'm currently finishing my studies in computer science. 
+- I'm currently finishing my studies in computer science 
 
-- I'm also learning web development and trying to dive more into data structures and algorithms.
+- I am interested in data science and web development
 
-- I love reading, sports and hanging with friends.
+- I love reading, sports and hanging with friends
 
 
 
