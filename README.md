@@ -1,7 +1,7 @@
 ### Hey :smile:
 
 
-- I'm currently finishing my studies in computer science 
+- I'm currently studying a máster in data science at university polytechnic of catalonia
 
 - I am interested in data science and web development
 
