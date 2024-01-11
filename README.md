@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Achraf</h1>
 <h3 align="center">Data Science Student</h3>
 
-- 🔭 I’m currently working on **Research**
+- 🔭 I’m currently working on **Research** at UPC.
 
 - 🌱 I’m currently learning **data science & webdev**
 
-- 👨‍💻 All of my projects are available at [aacraf.notion.site](aacraf.notion.site)
+- 👨‍💻 All of my projects are available at [aacraf.super.site](aacraf.super.site)
 
 - 📫 How to reach me **aacraaf@gmail.com**
 
-- ⚡ Fun fact **I like tangerines**
+- ⚡ Fun fact **I like tangerines** 🍊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
